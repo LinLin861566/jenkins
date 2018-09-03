@@ -1,0 +1,16 @@
+.login-screen {
+    min-height:400px;
+    padding: 150px 200px 200px 570px !important;
+    background-color: #1abc9c;
+    height: 600px !important;
+}
+.login-icon {
+    position: absolute;
+    top: 200px!important;
+    left: 350px!important;
+    width: 200px!important;
+}
+.login{
+    height: 680px  !important;
+    margin-bottom: 0px!important;
+}
